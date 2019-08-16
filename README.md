@@ -1,4 +1,4 @@
-# crackcoin
+# LibroCoin (crackoin by Sick)
 
 Crackcoin is a very basic blockchain-free cryptocurrency PoC in Python. It's a project for discovering cryptocurrencies.
 
