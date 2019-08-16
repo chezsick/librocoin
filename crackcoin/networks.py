@@ -5,13 +5,13 @@ import socket
 import zlib
 
 
-NETWORK_PORT = 31337
+NETWORK_PORT = 31335
 
 LOOP_TIMEOUT = 4
 NETWORK_SERVER_TIMEOUT = 4
 
 # packet names definitions
-packet_prefix = "crack"
+packet_prefix = "libro"
 
 # packet prefixes
 packet_sync_request = packet_prefix + "sync"
