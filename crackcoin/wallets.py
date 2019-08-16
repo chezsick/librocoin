@@ -1,6 +1,6 @@
 import crackcoin
 
-wallet_prefix = "crack"
+wallet_prefix = "libro"
 
 
 def publicKeyToAddress(compressedPublicKey):
